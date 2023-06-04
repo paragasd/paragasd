@@ -1,8 +1,7 @@
 <h1 align="center">Hi👋, I'm Dominic</h1>
 <h3 align="center">A software engineer and designer from California</h3>
 
-- 🔭 I’m currently working on **an SRS Math and Science Practice Problem Aggregator App** and **a 
-Smart Watch Health Diagnosis Recommendations App**
+- 🔭 I’m currently working on **IntelliLearn** and **MediSense** (see my [LinkedIn](https://linkedin.com/in/dparagas) for more details)
 
 - 📫 You can reach me at **paragasdominic [at] outlook.com**
 
