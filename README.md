@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **an SRS Math and Science Practice Problem Aggregator App** and **a 
 Smart Watch Health Diagnosis Recommendations App**
 
-- 📫 You can reach me at **paragasdominic@outlook.com**
+- 📫 You can reach me at **paragasdominic [at] outlook.com**
 
 - 🌱 I’m currently learning **Rust, Golang, Kotlin, Swift, PHP, and Ruby**
 
