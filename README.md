@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Dominic</h1>
 <h3 align="center">A software engineer and designer from California</h3>
 
-- 🔭 I’m currently working on **IntelliLearn** and **MediSense** (see my [LinkedIn](https://www.linkedin.com/in/dparagas/details/projects/) for more details)
+- 🔭 I’m currently working on **Euphiq** and **MediSense** (see my [LinkedIn](https://www.linkedin.com/in/dparagas/details/projects/) for more details)
 
 - 📫 You can reach me at **paragasdominic [at] outlook.com**
 
