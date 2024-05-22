@@ -5,7 +5,7 @@
 
 - 📫 You can reach me at **paragasdominic [at] outlook.com**
 
-- 🌱 I’m currently learning **Rust, Golang, Kotlin, Swift, PHP, and Ruby**
+- 🌱 I’m currently learning **Rust, Golang, Kotlin, Swift, PHP, Ruby, and Bend**
 
 - 💬 Ask me about **back-end development, front-end design, APIs, and algorithms**
 
