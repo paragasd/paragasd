@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **back-end development, front-end design, APIs, and algorithms**
 
-- ✨ I'm enamored by the endless possibilities of tech — feel free to shoot a message if you have any interesting project ideas!
+- ✨ I'm thrilled by tech's possibilities 🚀 If you have any interesting project ideas, feel free to shoot a message!
 
-- 💼 While I maintain confidentiality with my work due to college and security reasons, simply drop me an email and I'll be more than happy to share the repositories with you!
+- 💼 While I maintain work/code confidentiality due to college restrictions and security reasons, drop me an email, and I'll be more than happy to share the repo links!
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
